@@ -1,1 +1,1 @@
-# Barber Shop API for educational purposes
+# Karinthy Csibebál - eFaktor Vote - 9EKNY
